@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb3a50edd0d8faa87a5351b847be389ac2ee92a53",
+  "SCAN_LINK": "https://etherscan.io/address/0xb3a50edd0d8faa87a5351b847be389ac2ee92a53",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Who Is This Boy",
+  "SYMBOL": "WITBNFT",
+  "MAX_SUPPLY": 516,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-boy-v2-1",
+  "SHOW_BACKGROUND": true
+}
